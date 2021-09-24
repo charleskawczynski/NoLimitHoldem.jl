@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"api/#API","page":"API","title":"API","text":"","category":"section"},{"location":"api/","page":"API","title":"API","text":"NoLimitHoldem.move_button!","category":"page"},{"location":"api/#NoLimitHoldem.move_button!","page":"API","title":"NoLimitHoldem.move_button!","text":"move_button!(table::Table)\n\nMove the button around the table\n\n\n\n\n\n","category":"function"},{"location":"#NoLimitHoldem.jl","page":"Home","title":"NoLimitHoldem.jl","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"An experimental package for simulating No Limit Holdem Poker.","category":"page"}]
+}
